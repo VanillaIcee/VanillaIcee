@@ -10,9 +10,9 @@
 
 ## ⚡ Технологии и инструменты
 
-- <img src='https://img.icons8.com/?size=100&id=13441&format=png&color=000000' alt='kibana' height='40'>
-- Библиотеки:  🔒
-- Среда разработки:  🔒
+|Языки программирования | Библиотеки | Среда разработки|
+|:----------------------|------------|-----------------|
+|<img src='https://img.icons8.com/?size=100&id=13441&format=png&color=000000' alt='kibana' height='40'>||<img src='https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000' alt='kibana' height='40'>
 
 ## 📫 Связь со мной
 [<img src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' alt='kibana' height='40'>](https://t.me/egorfedotovoff)[<img src='https://img.icons8.com/?size=100&id=13977&format=png&color=000000' alt='kibana' height='40'>](https://vk.com/egorfedotovoff) 
