@@ -15,8 +15,7 @@
 - Среда разработки:  🔒
 
 ## 📫 Связь со мной
-[![https://pngicon.ru/file/uploads/telegram-256x256.png](https://pngicon.ru/file/uploads/telegram-256x256.png)](https://t.me/egorfedotovoff)
-- Email: egor.eg.fedotov@yandex.ru
+[<img src='https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000' alt='kibana' height='40'>](https://t.me/egorfedotovoff)
 
 ## 📝 Мои проекты
 
