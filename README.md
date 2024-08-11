@@ -16,7 +16,7 @@
 
 ## 📫 Связь со мной
 
-- [Telegram](t.me/egorfedotovoff)
+- [Telegram]([@aspia_ru](http://t-do.ru/aspia_ru "egorfedotovoff")
 - Email: egor.eg.fedotov@yandex.ru
 
 ## 📝 Мои проекты
