@@ -15,7 +15,7 @@
 - Среда разработки:  🔒
 
 ## 📫 Связь со мной
-[<img src='https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000' alt='kibana' height='40'>](https://t.me/egorfedotovoff)
+[<img src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' alt='kibana' height='40'>](https://t.me/egorfedotovoff)
 
 ## 📝 Мои проекты
 
